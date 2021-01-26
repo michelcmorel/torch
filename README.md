@@ -1,3 +1,4 @@
+GNU General Public License v3.0
 This branch is forked from: https://github.com/evilgeniuslabs/torch
 
 # Torch
